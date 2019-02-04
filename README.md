@@ -1,4 +1,9 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lq2fYlYeGEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe># empty-grade
+#empty-grade
 
 Набор средств измерения степени пустоты инбокса
+
+[![Видео с объяснением](https://img.youtube.com/vi/Lq2fYlYeGEE/0.jpg)](https://www.youtube.com/watch?v=Lq2fYlYeGEE)
+
+
+
 
